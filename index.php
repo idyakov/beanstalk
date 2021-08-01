@@ -27,11 +27,9 @@ else
         <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
-		<p>This code has been  deployed from GitHub via Jenkins v5</p>
+		<p>This code has been  deployed from GitHub via Jenkins v6</p>
     </section>
-<div> 
- <img src="256.png" alt="jenk" /> 
- </div> 
+ 
     <section class="instructions">
         <h2>What's Next?</h2>
         <ul>
@@ -52,6 +50,9 @@ else
 
     <!--[if lt IE 9]><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
 </body>
+<div> 
+ <img src="256.png" alt="jenk" /> 
+ </div>
 </html>
 <? 
 } 
