@@ -29,7 +29,9 @@ else
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
 		<p>This code has been  deployed from GitHub via Jenkins v4</p>
     </section>
-
+<div> 
+ <img src="256.png" alt="myPic" /> 
+ </div> 
     <section class="instructions">
         <h2>What's Next?</h2>
         <ul>
