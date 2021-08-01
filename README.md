@@ -1,4 +1,4 @@
-# beanstalk
+# beanstalk-deployment 
 
 
 ![](diagram.JPG)
