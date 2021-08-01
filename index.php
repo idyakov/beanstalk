@@ -27,10 +27,10 @@ else
         <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
-		<p>This code has been  deployed from GitHub via Jenkins v4</p>
+		<p>This code has been  deployed from GitHub via Jenkins v5</p>
     </section>
 <div> 
- <img src="256.png" alt="myPic" /> 
+ <img src="256.png" alt="jenk" /> 
  </div> 
     <section class="instructions">
         <h2>What's Next?</h2>
